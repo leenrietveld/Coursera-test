@@ -1,0 +1,14 @@
+li {
+	background-color: #f0f8ff;
+	border-bottom: 1px solid black;
+}
+
+#text-container {
+	padding: 10px;
+	background-color: grey;
+	margin: 15px auto 0;
+}
+
+.navbar-brand {
+	font-size: 25px;
+}
